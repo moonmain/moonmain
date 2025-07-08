@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 <code> <img height="120" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
 <code> <img height="200" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"> </code>
 <code> <img height="200" src="https://www.vectorlogo.zone/logos/minecraft/minecraft-icon.svg"> </code>
-
+<code> <img height="200" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"> </code>
