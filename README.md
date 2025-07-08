@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="left" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
