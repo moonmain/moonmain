@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 <img align="left" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <code> <img height="120" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
 <code> <img height="200" src="https://www.vectorlogo.zone/logos/archlinux/archlinux-ar21.svg"> </code>
+<code> <img height="200" src="https://www.vectorlogo.zone/logos/minecraft/minecraft-icon.svg"> </code>
 
