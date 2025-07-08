@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 <code> <img height="200" src="https://www.vectorlogo.zone/logos/vim/vim-ar21.svg"> </code>
 <code> <img height="200" src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg"> </code>
 <code> <img height="200" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg"> </code>
+<code> <img height="200" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"> </code>
